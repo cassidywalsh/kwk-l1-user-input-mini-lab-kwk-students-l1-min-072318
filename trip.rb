@@ -1,4 +1,7 @@
-# Code your prompts here!
+puts "Hello! Welcome to New York City! What is your name?"
+name = gets.chomp.capitalize
+puts "Where would you like to stay?"
+location = gets.capitalize.chomp
 
 # First, puts out a string asking where the tourist would like to stay.
 puts "Let's plan your trip! Where would you like to stay?"
